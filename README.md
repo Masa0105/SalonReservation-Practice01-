@@ -15,3 +15,7 @@ AccessDB,MainPanel,M_staff（Panel）,M_menu(Panel)を担当しました。
 Jframe GUIで製作しています。メイン画面の背景をモダンな形のイメージで製作しました。
 店長ボタンを押した際にパスワードの入力を求め『1234』のPasswordで管理画面に入るようにしました。
 予約パネルの日程選択を手入力ではなく、todayから1週間以内の期限になるようコーディングいたしました。
+
+4.製作環境
+Java Eclipse
+PostgresSQL 42.5.1
